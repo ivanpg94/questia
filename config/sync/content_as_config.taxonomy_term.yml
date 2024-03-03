@@ -1,0 +1,270 @@
+d7f45bd7-2a2b-453f-baad-f8075d15a266:
+  uuid: d7f45bd7-2a2b-453f-baad-f8075d15a266
+  tid: '1'
+  vid: product_category
+  name: UI
+  langcode: en
+  description:
+    -
+      value: null
+      format: null
+  weight: '6'
+  parent:
+    -
+      target_id: '0'
+  path: /taxonomy/term/1
+581755e8-cb13-48a9-ace8-7649205ab043:
+  uuid: 581755e8-cb13-48a9-ace8-7649205ab043
+  tid: '2'
+  vid: product_category
+  name: Textures
+  langcode: en
+  description:
+    -
+      value: null
+      format: null
+  weight: '8'
+  parent:
+    -
+      target_id: '0'
+  path: /taxonomy/term/2
+b745056e-7a98-4ac2-95b7-7a1fad483f67:
+  uuid: b745056e-7a98-4ac2-95b7-7a1fad483f67
+  tid: '3'
+  vid: product_category
+  name: Sounds
+  langcode: en
+  description:
+    -
+      value: null
+      format: null
+  weight: '7'
+  parent:
+    -
+      target_id: '0'
+  path: /taxonomy/term/3
+6759f925-51e0-44a7-8922-5eb40619f430:
+  uuid: 6759f925-51e0-44a7-8922-5eb40619f430
+  tid: '4'
+  vid: product_category
+  name: FX
+  langcode: en
+  description:
+    -
+      value: null
+      format: null
+  weight: '9'
+  parent:
+    -
+      target_id: '0'
+  path: /taxonomy/term/4
+2263dda5-afc6-42c2-ac54-30cb1afeef95:
+  uuid: 2263dda5-afc6-42c2-ac54-30cb1afeef95
+  tid: '5'
+  vid: product_category
+  name: Characters
+  langcode: en
+  description:
+    -
+      value: null
+      format: null
+  weight: '10'
+  parent:
+    -
+      target_id: '0'
+  path: /taxonomy/term/5
+bfff422f-3d50-4346-a6ed-37608f397e88:
+  uuid: bfff422f-3d50-4346-a6ed-37608f397e88
+  tid: '6'
+  vid: product_category
+  name: 2D
+  langcode: en
+  description:
+    -
+      value: null
+      format: null
+  weight: '1'
+  parent:
+    -
+      target_id: '5'
+  path: /taxonomy/term/6
+c4740626-3893-45ce-8cc0-34e488dc2124:
+  uuid: c4740626-3893-45ce-8cc0-34e488dc2124
+  tid: '7'
+  vid: product_category
+  name: 3D
+  langcode: en
+  description:
+    -
+      value: null
+      format: null
+  weight: '0'
+  parent:
+    -
+      target_id: '5'
+  path: /taxonomy/term/7
+9a33d016-b44b-417b-8f2b-f913ae4dbc52:
+  uuid: 9a33d016-b44b-417b-8f2b-f913ae4dbc52
+  tid: '8'
+  vid: product_category
+  name: '3D Controller'
+  langcode: en
+  description:
+    -
+      value: null
+      format: null
+  weight: '0'
+  parent:
+    -
+      target_id: '7'
+  path: /taxonomy/term/8
+ac07f3c9-e913-43f9-bb9e-acfb95709fb5:
+  uuid: ac07f3c9-e913-43f9-bb9e-acfb95709fb5
+  tid: '9'
+  vid: product_category
+  name: '3D Animations'
+  langcode: en
+  description:
+    -
+      value: null
+      format: null
+  weight: '1'
+  parent:
+    -
+      target_id: '7'
+  path: /taxonomy/term/9
+f100850c-98d8-4a8f-9a95-97f1bb2be350:
+  uuid: f100850c-98d8-4a8f-9a95-97f1bb2be350
+  tid: '10'
+  vid: product_category
+  name: '2D Animations'
+  langcode: en
+  description:
+    -
+      value: null
+      format: null
+  weight: '1'
+  parent:
+    -
+      target_id: '6'
+  path: /taxonomy/term/10
+624dfb64-c2eb-47e5-8208-6530e89b9ba8:
+  uuid: 624dfb64-c2eb-47e5-8208-6530e89b9ba8
+  tid: '12'
+  vid: product_category
+  name: '2D Controller'
+  langcode: en
+  description:
+    -
+      value: null
+      format: null
+  weight: '0'
+  parent:
+    -
+      target_id: '6'
+  path: /taxonomy/term/12
+792d78bd-387c-4866-bc57-57600d1cc961:
+  uuid: 792d78bd-387c-4866-bc57-57600d1cc961
+  tid: '13'
+  vid: blog_category
+  name: UI
+  langcode: en
+  description:
+    -
+      value: null
+      format: null
+  weight: '0'
+  parent:
+    -
+      target_id: '0'
+  path: /taxonomy/term/13
+6998cf03-8db4-4dbc-bb42-e260679a051a:
+  uuid: 6998cf03-8db4-4dbc-bb42-e260679a051a
+  tid: '14'
+  vid: blog_category
+  name: Textures
+  langcode: en
+  description:
+    -
+      value: null
+      format: null
+  weight: '1'
+  parent:
+    -
+      target_id: '0'
+  path: /taxonomy/term/14
+fb73114d-4258-4c3c-b833-346c38a1b819:
+  uuid: fb73114d-4258-4c3c-b833-346c38a1b819
+  tid: '15'
+  vid: blog_category
+  name: Sounds
+  langcode: en
+  description:
+    -
+      value: null
+      format: null
+  weight: '3'
+  parent:
+    -
+      target_id: '0'
+  path: /taxonomy/term/15
+82eb0204-393a-452d-a321-aae8b482cfa8:
+  uuid: 82eb0204-393a-452d-a321-aae8b482cfa8
+  tid: '16'
+  vid: blog_category
+  name: Fx
+  langcode: en
+  description:
+    -
+      value: null
+      format: null
+  weight: '2'
+  parent:
+    -
+      target_id: '0'
+  path: /taxonomy/term/16
+ceb30b27-ec38-4cfe-bdc9-d765e3bbcedd:
+  uuid: ceb30b27-ec38-4cfe-bdc9-d765e3bbcedd
+  tid: '17'
+  vid: blog_category
+  name: Blender
+  langcode: en
+  description:
+    -
+      value: null
+      format: null
+  weight: '5'
+  parent:
+    -
+      target_id: '0'
+  path: /taxonomy/term/17
+1ca50d06-dc7d-4954-9bc1-c5c5508c104a:
+  uuid: 1ca50d06-dc7d-4954-9bc1-c5c5508c104a
+  tid: '18'
+  vid: blog_category
+  name: Unity
+  langcode: en
+  description:
+    -
+      value: null
+      format: null
+  weight: '6'
+  parent:
+    -
+      target_id: '0'
+  path: /taxonomy/term/18
+e312733b-6c81-4599-ab11-b77db2b3d93e:
+  uuid: e312733b-6c81-4599-ab11-b77db2b3d93e
+  tid: '19'
+  vid: blog_category
+  name: '3D modelling'
+  langcode: en
+  description:
+    -
+      value: null
+      format: null
+  weight: '4'
+  parent:
+    -
+      target_id: '0'
+  path: /taxonomy/term/19
