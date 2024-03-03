@@ -1,0 +1,7 @@
+name: 'Questia'
+type: theme
+base theme: olivero
+core_version_requirement: ^10 || ^11
+description: 'Tema personalizado Questia basado en Olivero'
+package: 'Custom'
+version: '1.0'
