@@ -1,0 +1,22 @@
+uuid: 320c0802-4ef8-440c-a8a1-8b3fb4a64a69
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - questia
+_core:
+  default_config_hash: VhBzWb7lMRtIOg9G7VSw_0uopi-7zXeHq4vXqqV1HFE
+id: questia_breadcrumbs
+theme: questia
+region: breadcrumb
+weight: 0
+provider: null
+plugin: system_breadcrumb_block
+settings:
+  id: system_breadcrumb_block
+  label: Breadcrumbs
+  label_display: '0'
+  provider: system
+visibility: {  }

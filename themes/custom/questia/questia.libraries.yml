@@ -1,0 +1,7 @@
+general:
+  version: VERSION
+  css:
+    theme:
+      assets/css/general.css: {}
+  js:
+    assets/js/general.js: {}

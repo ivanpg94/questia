@@ -1,0 +1,22 @@
+uuid: 4bcf4945-2ed6-41e1-b677-264182193ae5
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - questia
+_core:
+  default_config_hash: erQSEZF2XUjNmgTl0uNRBzmg18ZGXwUcw2FhApoeuHk
+id: questia_content
+theme: questia
+region: content
+weight: 0
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  label_display: '0'
+  provider: system
+visibility: {  }

@@ -1,0 +1,23 @@
+uuid: 3f8cb355-00d4-45d6-8c18-fcbd1bfaf023
+langcode: en
+status: true
+dependencies:
+  module:
+    - search
+  theme:
+    - questia
+_core:
+  default_config_hash: yEBET0cqDbk8dkWzaJw-8CKft0961VBflsISoSR6Lj8
+id: questia_search_form_narrow
+theme: questia
+region: primary_menu
+weight: -4
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: 'Search form (narrow)'
+  label_display: '0'
+  provider: search
+  page_id: ''
+visibility: {  }
