@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+	<title>QUESTIA</title>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 250px;fill: #ffffff;font-weight: 400;font-family: "EricaOne-Regular", "Erica One" } 
+	</style>
+	<text id="QUESTIA" style="transform: matrix(1,0,0,1,51,438)" >
+		<tspan x="0" y="0" class="t0">Q</tspan><tspan  y="0" class="t0">U</tspan><tspan  y="0" class="t0">E</tspan><tspan  y="0" class="t0">S</tspan><tspan  y="0" class="t0">T</tspan><tspan  y="0" class="t0">I</tspan><tspan  y="0" class="t0">A
+</tspan>
+	</text>
+</svg>
