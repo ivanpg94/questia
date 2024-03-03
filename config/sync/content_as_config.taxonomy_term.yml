@@ -163,3 +163,108 @@ f100850c-98d8-4a8f-9a95-97f1bb2be350:
     -
       target_id: '6'
   path: /taxonomy/term/12
+792d78bd-387c-4866-bc57-57600d1cc961:
+  uuid: 792d78bd-387c-4866-bc57-57600d1cc961
+  tid: '13'
+  vid: blog_category
+  name: UI
+  langcode: en
+  description:
+    -
+      value: null
+      format: null
+  weight: '0'
+  parent:
+    -
+      target_id: '0'
+  path: /taxonomy/term/13
+6998cf03-8db4-4dbc-bb42-e260679a051a:
+  uuid: 6998cf03-8db4-4dbc-bb42-e260679a051a
+  tid: '14'
+  vid: blog_category
+  name: Textures
+  langcode: en
+  description:
+    -
+      value: null
+      format: null
+  weight: '1'
+  parent:
+    -
+      target_id: '0'
+  path: /taxonomy/term/14
+fb73114d-4258-4c3c-b833-346c38a1b819:
+  uuid: fb73114d-4258-4c3c-b833-346c38a1b819
+  tid: '15'
+  vid: blog_category
+  name: Sounds
+  langcode: en
+  description:
+    -
+      value: null
+      format: null
+  weight: '3'
+  parent:
+    -
+      target_id: '0'
+  path: /taxonomy/term/15
+82eb0204-393a-452d-a321-aae8b482cfa8:
+  uuid: 82eb0204-393a-452d-a321-aae8b482cfa8
+  tid: '16'
+  vid: blog_category
+  name: Fx
+  langcode: en
+  description:
+    -
+      value: null
+      format: null
+  weight: '2'
+  parent:
+    -
+      target_id: '0'
+  path: /taxonomy/term/16
+ceb30b27-ec38-4cfe-bdc9-d765e3bbcedd:
+  uuid: ceb30b27-ec38-4cfe-bdc9-d765e3bbcedd
+  tid: '17'
+  vid: blog_category
+  name: Blender
+  langcode: en
+  description:
+    -
+      value: null
+      format: null
+  weight: '5'
+  parent:
+    -
+      target_id: '0'
+  path: /taxonomy/term/17
+1ca50d06-dc7d-4954-9bc1-c5c5508c104a:
+  uuid: 1ca50d06-dc7d-4954-9bc1-c5c5508c104a
+  tid: '18'
+  vid: blog_category
+  name: Unity
+  langcode: en
+  description:
+    -
+      value: null
+      format: null
+  weight: '6'
+  parent:
+    -
+      target_id: '0'
+  path: /taxonomy/term/18
+e312733b-6c81-4599-ab11-b77db2b3d93e:
+  uuid: e312733b-6c81-4599-ab11-b77db2b3d93e
+  tid: '19'
+  vid: blog_category
+  name: '3D modelling'
+  langcode: en
+  description:
+    -
+      value: null
+      format: null
+  weight: '4'
+  parent:
+    -
+      target_id: '0'
+  path: /taxonomy/term/19
