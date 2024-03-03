@@ -1,0 +1,15 @@
+0ef1c033-6ac4-435e-bdd7-e26b41b4803c:
+  uuid: 0ef1c033-6ac4-435e-bdd7-e26b41b4803c
+  menu_name: main
+  title: Blog
+  parent: ''
+  link:
+    -
+      uri: 'internal:/blog'
+      title: ''
+      options: {  }
+  description: ''
+  enabled: '1'
+  expanded: '0'
+  weight: '-49'
+  langcode: en
