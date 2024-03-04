@@ -1,0 +1,10 @@
+uuid: 66c5431f-335a-495e-8b70-78b885755651
+langcode: en
+status: true
+dependencies: {  }
+id: asset
+label: Asset
+traits: {  }
+locked: false
+orderItemType: default
+generateTitle: null
