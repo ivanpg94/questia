@@ -1,0 +1,21 @@
+uuid: 7e3ba809-fab8-4869-a164-bc278940ad93
+langcode: en
+status: false
+dependencies:
+  module:
+    - commerce_cart
+  theme:
+    - questia
+id: questia_cart
+theme: questia
+region: secondary_menu
+weight: -5
+provider: null
+plugin: commerce_cart
+settings:
+  id: commerce_cart
+  label: Cart
+  label_display: '0'
+  provider: commerce_cart
+  dropdown: true
+visibility: {  }

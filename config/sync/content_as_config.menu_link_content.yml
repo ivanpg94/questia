@@ -1,11 +1,26 @@
 0ef1c033-6ac4-435e-bdd7-e26b41b4803c:
   uuid: 0ef1c033-6ac4-435e-bdd7-e26b41b4803c
   menu_name: main
-  title: Blog
+  title: Learn
   parent: ''
   link:
     -
-      uri: 'internal:/blog'
+      uri: 'internal:/learn'
+      title: ''
+      options: {  }
+  description: ''
+  enabled: '1'
+  expanded: '0'
+  weight: '-48'
+  langcode: en
+8371f9b4-4662-43e8-ad06-b01b8e71c455:
+  uuid: 8371f9b4-4662-43e8-ad06-b01b8e71c455
+  menu_name: main
+  title: Assets
+  parent: ''
+  link:
+    -
+      uri: 'internal:/assets'
       title: ''
       options: {  }
   description: ''

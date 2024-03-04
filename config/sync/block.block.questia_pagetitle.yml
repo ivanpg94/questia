@@ -1,15 +1,13 @@
-uuid: 7b1f218a-19b6-4e9e-91fd-6e2f6ef686d1
+uuid: b75d8a7e-7ca9-433c-ae92-a5d45b266fa2
 langcode: en
 status: true
 dependencies:
   theme:
     - questia
-_core:
-  default_config_hash: 6aOgWsNTXjqrDm98TXSAjP6qd2nCijD1xw45MrnbK-Y
-id: questia_page_title
+id: questia_pagetitle
 theme: questia
-region: sidebar_first
-weight: -5
+region: content
+weight: -7
 provider: null
 plugin: page_title_block
 settings:
