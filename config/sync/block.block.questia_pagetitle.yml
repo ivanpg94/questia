@@ -1,0 +1,18 @@
+uuid: b75d8a7e-7ca9-433c-ae92-a5d45b266fa2
+langcode: en
+status: true
+dependencies:
+  theme:
+    - questia
+id: questia_pagetitle
+theme: questia
+region: content
+weight: -7
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  label_display: '0'
+  provider: core
+visibility: {  }

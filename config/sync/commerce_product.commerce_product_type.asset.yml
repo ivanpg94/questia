@@ -1,0 +1,14 @@
+uuid: 3ceae9ab-4bff-40b8-8dfd-5b31e489b6cf
+langcode: en
+status: true
+dependencies: {  }
+id: asset
+label: Asset
+traits: {  }
+locked: false
+description: ''
+variationType: asset
+variationTypes:
+  - asset
+multipleVariations: false
+injectVariationFields: true
